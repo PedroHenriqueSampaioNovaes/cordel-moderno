@@ -62,7 +62,7 @@ header p {
 
 /* Conteúdo */
 section {
-  padding: 70px 30px;
+  padding: 10vh 30px;
 }
 
 section p {
@@ -83,12 +83,12 @@ section p {
 }
 
 #img1 {
-  background: url(../img/background001.jpg) no-repeat fixed;
+  background: rgb(51, 51, 51) url(../img/background001.jpg) no-repeat fixed;
   background-size: cover;
 }
 
 #img2 {
-  background: url(../img/background002.jpg) no-repeat fixed;
+  background: rgb(51, 51, 51)  url(../img/background002.jpg) no-repeat fixed;
 }
 
 /* Rodapé */
